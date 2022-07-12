@@ -19,11 +19,13 @@ theme:
 
     palette: # 
      - scheme: default
+       primary: teal green
        accent: red
        toggle:
         icon: material/lightbulb-outline
         name: Switch to dark mode 
      - scheme: slate # 
+       primary: green
        accent: red
        toggle:
         icon: material/lightbulb

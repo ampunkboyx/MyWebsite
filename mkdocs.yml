@@ -24,7 +24,7 @@ theme:
        toggle:
         icon: material/lightbulb-outline
         name: Switch to dark mode 
-     - scheme: slate # 
+     - scheme: default
        primary: green
        accent: red
        toggle:
